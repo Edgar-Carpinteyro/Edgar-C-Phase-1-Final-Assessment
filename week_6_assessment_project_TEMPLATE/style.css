@@ -1,11 +1,14 @@
 body {
-
+  background-color: aquamarine;
+  text-align: center;
 }
 
 .mealsList {
-
+  text-align: center;
 }
 
-.mealContainer {
-
+.meal-image{
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
 }
